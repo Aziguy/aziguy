@@ -39,7 +39,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/aziguy/resume-de-vehicule" title="resume-de-vehicule"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=resume-de-vehicule&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Aziguy/woocommerce-theme" title="woocommerce-theme"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=woocommerce-theme&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/aziguy/vegnature-theme" title="Vegnature WordPress Theme"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=vegnature-theme&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
