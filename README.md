@@ -10,12 +10,7 @@
 <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
    
-  ### Defi Smart Contracts - ERC20, Staking, Farming, Lending, Voting, DAO, Tokenomics
-  ### NFT Smart Contracts - ERC721, ERC1155, Airdrop, Marketplace, Auctions, Trading, Fractionalize.
-  ### even Solana ( spl-tokens, candymachine, RUST programs )
-  ### Solidity, RUST
-  ### C++ Mastered!
-  ### React.js, Vue.js, Angular.js, nodeJS, PHP, Python.
+Results-driven software engineer with over 8+ years of experience in full-stack development and test automation. Skilled in JavaScript, React, Java, Selenium, and Appium. Developed automation frameworks and scripts leveraging Selenium, reducing testing time by 20%. Passionate about implementing CI/CD pipelines and DevOps processes to optimize quality. Seeking to utilize my diverse technical expertise in software development and QA automation to deliver high-quality, thoroughly-tested products that exceed customer expectations. Well-versed in Agile methodologies and collaborating cross-functionally to understand business needs and translate them into functional software solutions. Continuously learning and up-to-date on the latest tools and technologies to solve problems and streamline delivery. I'm exciting to join a culture of innovation and bring both of my development and automation mindset.
   <br />
 </div>
 
