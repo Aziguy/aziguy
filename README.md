@@ -1,5 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+ 
+### Defi Smart Contracts - ERC20, Staking, Farming, Lending, Voting, DAO, Tokenomics
+### NFT Smart Contracts - ERC721, ERC1155, Airdrop, Marketplace, Auctions, Trading, Fractionalize.
+### even Solana ( spl-tokens, candymachine, RUST programs )
+### Solidity, RUST
+### C++ Mastered!
+### React.js, Vue.js, Angular.js, nodeJS, PHP, Python.
+<br />
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Guys!+👋;This+is+Hippolyte+...;Nice+to+meet+you!&center=true&size=30">
