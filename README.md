@@ -24,6 +24,7 @@ Results-driven software engineer with **8+ years** of experience in full-stack d
 ![Selenium](https://img.shields.io/badge/-Selenium-20232a?style=flat&logo=selenium)
 ![Appium](https://img.shields.io/badge/-Appium-20232a?style=flat&logo=appium)
 ![Cypress](https://img.shields.io/badge/-Cypress-20232a?style=flat&logo=cypress)
+![Playwright](https://img.shields.io/badge/-Playwright-20232a?style=flat&logo=playwright)
 ![Jest](https://img.shields.io/badge/-Jest-20232a?style=flat&logo=jest)
 
 **DevOps & Tools**
@@ -32,6 +33,15 @@ Results-driven software engineer with **8+ years** of experience in full-stack d
 ![Jenkins](https://img.shields.io/badge/-Jenkins-20232a?style=flat&logo=jenkins)
 ![Git](https://img.shields.io/badge/-Git-20232a?style=flat&logo=git)
 ![Azure](https://img.shields.io/badge/-Azure-20232a?style=flat&logo=microsoftazure)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/-LangChain-20232a?style=flat&logo=langchain)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-20232a?style=flat&logo=openai)
+![Anthropic](https://img.shields.io/badge/-Anthropic_Claude-20232a?style=flat&logo=anthropic)
+![MCP](https://img.shields.io/badge/-MCP_Server-20232a?style=flat&logo=anthropic)
+
+> Familiar with LLM fundamentals (transformers, context windows, prompt engineering) · Building AI-powered interfaces with LangChain, MCP servers, and direct API integrations · RAG pipelines & agent workflows
 
 ---
 
