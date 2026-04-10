@@ -53,20 +53,3 @@ Results-driven software engineer with **8+ years** of experience in full-stack d
 </p>
 
 ---
-
-### Featured repos
-
-<p>
-  <a href="https://github.com/Aziguy/woocommerce-theme">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=woocommerce-theme&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-  <a href="https://github.com/aziguy/vegnature-theme">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=vegnature-theme&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-  <a href="https://github.com/Aziguy/use_case_ayomi">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=use_case_ayomi&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-  <a href="https://github.com/Aziguy/fleaMarketOnline">
-    <img height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=aziguy&repo=fleaMarketOnline&theme=react&border_color=61dafb&border_radius=10" />
-  </a>
-</p>
