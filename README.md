@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;QA+Automation+Engineer;CI/CD+Enthusiast&center=false&size=18" />
 </p>
 
-Results-driven software engineer with **8+ years** of experience in full-stack development and test automation. I build Selenium/Appium frameworks that cut testing time by **50%**, implement CI/CD pipelines, and bridge the gap between dev and QA. Always learning, always shipping.
+Results-driven software engineer with **8+ years** of experience in full-stack development and test automation. I build Selenium/Appium frameworks that cut testing time by **+65%**, implement CI/CD pipelines, and bridge the gap between dev and QA. Always learning, always shipping.
 
 ---
 
