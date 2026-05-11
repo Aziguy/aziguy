@@ -45,11 +45,8 @@ Results-driven software engineer with **8+ years** of experience in full-stack d
 
 ---
 
-### GitHub stats
-
-<p>
-  <img width="390" src="https://streak-stats.demolab.com/?user=aziguy&theme=react&border=61dafb&hide_border=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aziguy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</p>
+## 📈 **GitHub Stats**
+<a href="https://git.io/streak-stats" style="width: 100%;" ><img style="width: 100%;"  src="https://github-readme-streak-stats.herokuapp.com?user=aziguy&theme=react" alt="GitHub Streak" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziguy&theme=react" alt="Profile Summary Graph" style="width: 100%;" />
 
 ---
