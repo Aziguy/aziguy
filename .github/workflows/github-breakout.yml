@@ -5,6 +5,9 @@ on:
     - cron: "0 */24 * * *"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   generate-svg:
     permissions:
@@ -14,7 +17,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.2.2
 
       - name: generate SVG
         uses: cyprieng/github-breakout@v1
@@ -38,4 +41,4 @@ jobs:
           mv /tmp/breakout-images/* images/
           git add images
           git commit -m "chore: update GitHub breakout SVGs" || echo "No changes to commit"
-          git push --force origin main
+          git push origin main
