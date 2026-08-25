@@ -1,54 +1,66 @@
-<h1>Hippolyte — Full-Stack & QA Engineer</h1>
+<h1 align="center">Hippolyte</h1>
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;QA+Automation+Engineer;CI/CD+Enthusiast&center=false&size=18" />
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://YOUR-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-20232a?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-20232a?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-Results-driven software engineer with **8+ years** of experience in full-stack development and test automation. I build Selenium/Appium frameworks that cut testing time by **+65%**, implement CI/CD pipelines, and bridge the gap between dev and QA. Always learning, always shipping.
+**Full-Stack & QA Automation Engineer — 8+ years.**
+
+I build products end-to-end and the test infrastructure that keeps them shipping: Selenium/Appium frameworks that cut regression time by **65%**, CI/CD pipelines, and AI-assisted tooling. I sit where dev meets QA.
 
 ---
 
 ### Tech stack
 
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-20232a?style=flat&logo=javascript)
+**Core**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-20232a?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb)
-![Java](https://img.shields.io/badge/-Java-20232a?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-JavaScript-20232a?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-20232a?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-20232a?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb)
 ![Node.js](https://img.shields.io/badge/-Node.js-20232a?style=flat&logo=node.js)
 
-**Testing & Automation**
-
+**Test automation**
+![Playwright](https://img.shields.io/badge/-Playwright-20232a?style=flat&logo=playwright)
 ![Selenium](https://img.shields.io/badge/-Selenium-20232a?style=flat&logo=selenium)
 ![Appium](https://img.shields.io/badge/-Appium-20232a?style=flat&logo=appium)
 ![Cypress](https://img.shields.io/badge/-Cypress-20232a?style=flat&logo=cypress)
-![Playwright](https://img.shields.io/badge/-Playwright-20232a?style=flat&logo=playwright)
 ![Jest](https://img.shields.io/badge/-Jest-20232a?style=flat&logo=jest)
 
-**DevOps & Tools**
-
+**DevOps**
 ![Docker](https://img.shields.io/badge/-Docker-20232a?style=flat&logo=docker)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-20232a?style=flat&logo=jenkins)
-![Git](https://img.shields.io/badge/-Git-20232a?style=flat&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-20232a?style=flat&logo=githubactions)
 ![Azure](https://img.shields.io/badge/-Azure-20232a?style=flat&logo=microsoftazure)
 
 **AI & LLM**
-
-![LangChain](https://img.shields.io/badge/-LangChain-20232a?style=flat&logo=langchain)
+![Anthropic](https://img.shields.io/badge/-Claude_API-20232a?style=flat&logo=anthropic)
 ![OpenAI](https://img.shields.io/badge/-OpenAI_API-20232a?style=flat&logo=openai)
-![Anthropic](https://img.shields.io/badge/-Anthropic_Claude-20232a?style=flat&logo=anthropic)
-![MCP](https://img.shields.io/badge/-MCP_Server-20232a?style=flat&logo=anthropic)
+![LangChain](https://img.shields.io/badge/-LangChain-20232a?style=flat&logo=langchain)
+![MCP](https://img.shields.io/badge/-MCP-20232a?style=flat&logo=anthropic)
 
-> Familiar with LLM fundamentals (transformers, context windows, prompt engineering) · Building AI-powered interfaces with LangChain, MCP servers, and direct API integrations · RAG pipelines & agent workflows
-
----
-
-## 📈 **GitHub Stats**
-<a href="https://git.io/streak-stats" style="width: 100%;" ><img style="width: 100%;"  src="https://github-readme-streak-stats.herokuapp.com?user=aziguy&theme=react" alt="GitHub Streak" /></a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziguy&theme=react" alt="Profile Summary Graph" style="width: 100%;" />
+RAG pipelines, agent workflows and MCP servers — plus the LLM fundamentals behind them (context windows, tool use, prompt design).
 
 ---
 
-![github-breakout](./images/breakout-dark.svg)
+### Currently
+
+- Building AI-assisted QA tooling on top of MCP and the Claude API
+- Open to freelance & consulting on test automation and CI/CD
+
+---
+
+### GitHub
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=aziguy&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aziguy&theme=react" alt="Top Languages" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./images/breakout-light.svg" />
+  <img src="./images/breakout-dark.svg" alt="GitHub contribution breakout" />
+</picture>
