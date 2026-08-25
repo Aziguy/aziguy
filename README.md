@@ -78,7 +78,8 @@ RAG pipelines, agent workflows and MCP servers, backed by a solid foundation in 
 ### GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziguy&theme=react" alt="Profile summary" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aziguy&theme=react" alt="Contribution stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziguy&theme=react&utcOffset=2" alt="Productive time" />
 </p>
 
 <p align="center">
@@ -87,8 +88,7 @@ RAG pipelines, agent workflows and MCP servers, backed by a solid foundation in 
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aziguy&theme=react" alt="Contribution stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziguy&theme=react&utcOffset=2" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziguy&theme=react" alt="Profile summary" />
 </p>
 
 <picture>
