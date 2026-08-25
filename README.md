@@ -83,7 +83,12 @@ RAG pipelines, agent workflows and MCP servers, backed by a solid foundation in 
 
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aziguy&theme=react" alt="Top languages by repo" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aziguy&theme=react" alt="Most commit language" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aziguy&theme=react" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aziguy&theme=react" alt="Contribution stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aziguy&theme=react&utcOffset=2" alt="Productive time" />
 </p>
 
 <picture>
