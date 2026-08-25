@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <b>8+ years</b> building products end-to-end &mdash; and the test infrastructure that keeps them shipping.<br />
-  Test frameworks that cut regression time by <b>65%</b> &middot; CI/CD pipelines &middot; AI-assisted QA tooling.
+  <b>8+ years</b> building products end-to-end and the test infrastructure that keeps them shipping.<br />
+  Test frameworks that cut regression time by <b>65%</b> | CI/CD pipelines | AI-assisted QA tooling.
 </p>
 
 ---
@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-RAG pipelines, agent workflows and MCP servers &mdash; plus the LLM fundamentals behind them (context windows, tool use, prompt design).
+RAG pipelines, agent workflows and MCP servers plus the LLM fundamentals behind them (context windows, tool use, prompt design).
 
 ---
 
