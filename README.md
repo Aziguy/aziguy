@@ -1,62 +1,89 @@
 <h1 align="center">Hippolyte</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://YOUR-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-20232a?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-20232a?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/aziguy">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;QA+Automation+Engineer;CI%2FCD+%26+AI+Tooling" alt="Full-Stack Developer · QA Automation Engineer · CI/CD & AI Tooling" />
+  </a>
 </p>
 
-**Full-Stack & QA Automation Engineer — 8+ years.**
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://YOUR-PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-20232a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-20232a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-I build products end-to-end and the test infrastructure that keeps them shipping: Selenium/Appium frameworks that cut regression time by **65%**, CI/CD pipelines, and AI-assisted tooling. I sit where dev meets QA.
+<p align="center">
+  <b>8+ years</b> building products end-to-end &mdash; and the test infrastructure that keeps them shipping.<br />
+  Test frameworks that cut regression time by <b>65%</b> &middot; CI/CD pipelines &middot; AI-assisted QA tooling.
+</p>
 
 ---
 
 ### Tech stack
 
-**Core**
-![TypeScript](https://img.shields.io/badge/-TypeScript-20232a?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-20232a?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-20232a?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-20232a?style=flat&logo=python)
-![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/-Node.js-20232a?style=flat&logo=node.js)
+<table>
+  <tr>
+    <td><b>Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TypeScript-20232a?style=flat&logo=typescript" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/-JavaScript-20232a?style=flat&logo=javascript" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/-Java-20232a?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/-Python-20232a?style=flat&logo=python" alt="Python" />
+      <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb" alt="React" />
+      <img src="https://img.shields.io/badge/-Node.js-20232a?style=flat&logo=nodedotjs" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Test automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logoColor=white" alt="Playwright" />
+      <img src="https://img.shields.io/badge/-Selenium-20232a?style=flat&logo=selenium" alt="Selenium" />
+      <img src="https://img.shields.io/badge/-Appium-20232a?style=flat&logo=appium" alt="Appium" />
+      <img src="https://img.shields.io/badge/-Cypress-20232a?style=flat&logo=cypress" alt="Cypress" />
+      <img src="https://img.shields.io/badge/-Jest-20232a?style=flat&logo=jest" alt="Jest" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Docker-20232a?style=flat&logo=docker" alt="Docker" />
+      <img src="https://img.shields.io/badge/-Jenkins-20232a?style=flat&logo=jenkins" alt="Jenkins" />
+      <img src="https://img.shields.io/badge/-GitHub_Actions-20232a?style=flat&logo=githubactions" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logoColor=white" alt="Azure" />
+      <img src="https://img.shields.io/badge/-Git-20232a?style=flat&logo=git" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Claude_API-20232a?style=flat&logo=anthropic" alt="Claude API" />
+      <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logoColor=white" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/-LangChain-20232a?style=flat&logo=langchain" alt="LangChain" />
+      <img src="https://img.shields.io/badge/-MCP-20232a?style=flat&logo=anthropic" alt="MCP" />
+    </td>
+  </tr>
+</table>
 
-**Test automation**
-![Playwright](https://img.shields.io/badge/-Playwright-20232a?style=flat&logo=playwright)
-![Selenium](https://img.shields.io/badge/-Selenium-20232a?style=flat&logo=selenium)
-![Appium](https://img.shields.io/badge/-Appium-20232a?style=flat&logo=appium)
-![Cypress](https://img.shields.io/badge/-Cypress-20232a?style=flat&logo=cypress)
-![Jest](https://img.shields.io/badge/-Jest-20232a?style=flat&logo=jest)
-
-**DevOps**
-![Docker](https://img.shields.io/badge/-Docker-20232a?style=flat&logo=docker)
-![Jenkins](https://img.shields.io/badge/-Jenkins-20232a?style=flat&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-20232a?style=flat&logo=githubactions)
-![Azure](https://img.shields.io/badge/-Azure-20232a?style=flat&logo=microsoftazure)
-
-**AI & LLM**
-![Anthropic](https://img.shields.io/badge/-Claude_API-20232a?style=flat&logo=anthropic)
-![OpenAI](https://img.shields.io/badge/-OpenAI_API-20232a?style=flat&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-20232a?style=flat&logo=langchain)
-![MCP](https://img.shields.io/badge/-MCP-20232a?style=flat&logo=anthropic)
-
-RAG pipelines, agent workflows and MCP servers — plus the LLM fundamentals behind them (context windows, tool use, prompt design).
+RAG pipelines, agent workflows and MCP servers &mdash; plus the LLM fundamentals behind them (context windows, tool use, prompt design).
 
 ---
 
 ### Currently
 
 - Building AI-assisted QA tooling on top of MCP and the Claude API
-- Open to freelance & consulting on test automation and CI/CD
+- Open to freelance &amp; consulting on test automation and CI/CD
 
 ---
 
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=aziguy&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aziguy&theme=react" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aziguy&theme=react" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aziguy&theme=react" alt="Top languages by repo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aziguy&theme=react" alt="Most commit language" />
 </p>
 
 <picture>
