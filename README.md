@@ -64,14 +64,14 @@
   </tr>
 </table>
 
-RAG pipelines, agent workflows and MCP servers plus the LLM fundamentals behind them (context windows, tool use, prompt design).
+RAG pipelines, agent workflows and MCP servers, backed by a solid foundation in LLMs and AI.
 
 ---
 
 ### Currently
 
-- Building AI-assisted QA tooling on top of MCP and the Claude API
-- Open to freelance &amp; consulting on test automation and CI/CD
+- Building AI-assisted QA tooling leveraging MCP and agent skills
+- Available for freelance & consulting work in test automation, CI/CD, and AI-assisted QA
 
 ---
 
